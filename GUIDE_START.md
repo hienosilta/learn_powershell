@@ -25,8 +25,8 @@ powershell Get-Process
 * Visa filer i aktuell katalog Get-Help Get-Process
 * Visa hjälp för ett kommando ``` 
 
-```## 5. Skriva och köra skript 
-Spara dina kommandon i en fil med ändelsen `.ps1`, exempelvis `mittskript.ps1`. Kör skriptet så här: ```
+## 5. Skriva och köra skript 
+```Spara dina kommandon i en fil med ändelsen `.ps1`, exempelvis `mittskript.ps1`. Kör skriptet så här: ```
 
 powershell .\mittskript.ps1 ``` 
 
