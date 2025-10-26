@@ -1,6 +1,6 @@
 # PowerShell-inlärning
 
-Detta repository är till för att samla resurser, övningar och exempel för att lära sig grunderna i PowerShell.
+Detta repository är till för att samla resurser, övningar och exempel för att lära grunderna i PowerShell.
 
 Här hittar du:
 - **Guider** för att komma igång med PowerShell
