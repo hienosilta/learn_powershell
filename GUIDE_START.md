@@ -30,10 +30,17 @@ Spara dina kommandon i en fil med ändelsen `.ps1`, exempelvis `mittskript.ps1`.
 ```
 powershell .\mittskript.ps1 ``` 
 
-**Obs:** Du kan behöva ändra exekveringspolicy. Kör som administratör: 
+**Obs:**
+Du kan behöva ändra exekveringspolicy. Kör som administratör: 
 
 powershell Set-ExecutionPolicy RemoteSigned ``` 
 
-## 6. Vidare läsning - [Microsoft PowerShell Documentation](https://learn.microsoft.com/powershell/) - [PowerShell Gallery](https://www.powershellgallery.com/) - [PowerShell på GitHub](https://github.com/powershell/powershell) ---
+## 6. Vidare läsning
+- [Microsoft PowerShell Documentation](https://learn.microsoft.com/powershell/)
+- [PowerShell Gallery](https://www.powershellgallery.com/)
+- [PowerShell på GitHub](https://github.com/powershell/powershell) ---
 
- Vill du ha mer avancerade guider, exempel på skript, eller tips på vanliga användningsområden? Säg gärna till!
+ Vill du ha mer avancerade guider,
+exempel på skript,
+ eller tips på vanliga användningsområden?
+Säg gärna till!
