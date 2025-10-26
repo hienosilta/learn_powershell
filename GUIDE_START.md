@@ -27,8 +27,12 @@ Prova dessa enkla kommandon i PowerShell-terminalen:
 
 ## 5. Skriva och köra skript 
 Spara dina kommandon i en fil med ändelsen `.ps1`, exempelvis `mittskript.ps1`. Kör skriptet så här:
+
 ```powershell .\mittskript.ps1
-``` **Obs:** Du kan behöva ändra exekveringspolicy. Kör som administratör: ```powershell Set-ExecutionPolicy RemoteSigned ``` 
+
+``` **Obs:** Du kan behöva ändra exekveringspolicy. Kör som administratör:
+
+```powershell Set-ExecutionPolicy RemoteSigned ``` 
 
 ## 6. Vidare läsning - [Microsoft PowerShell Documentation](https://learn.microsoft.com/powershell/) - [PowerShell Gallery](https://www.powershellgallery.com/) - [PowerShell på GitHub](https://github.com/powershell/powershell) 
 
