@@ -10,9 +10,12 @@ Du kan kontrollera versionen genom att köra: ```powershell $PSVersionTable.PSVe
 ### Linux/macOS Installera PowerShell via terminalen: 
 ```bash # Linux (Ubuntu-exempel) sudo apt-get install -y powershell # macOS med Homebrew brew install --cask powershell ``` 
 
-## 3. Starta PowerShell - **Windows:** Sök efter "PowerShell" i Startmenyn och öppna. 
+## 3. Starta PowerShell - 
+**Windows:
+** Sök efter "PowerShell" i Startmenyn och öppna. 
 
-- **Linux/macOS:** Skriv `pwsh` i din terminal. 
+- **Linux/macOS:
+- ** Skriv `pwsh` i din terminal. 
 
 ## 4. Din första PowerShell-kommandon Prova dessa enkla kommandon i PowerShell-terminalen: ```powershell Get-Process # Lista alla aktiva processer Get-ChildItem # Visa filer i aktuell katalog Get-Help Get-Process # Visa hjälp för ett kommando ``` 
 
