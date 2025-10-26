@@ -19,8 +19,8 @@ Du kan kontrollera versionen genom att köra: ```powershell $PSVersionTable.PSVe
 
 ## 4. Din första PowerShell
 -kommandon 
-Prova dessa enkla kommandon i PowerShell-terminalen: 
-```powershell Get-Process 
+Prova dessa enkla kommandon i PowerShell-terminalen: ```
+powershell Get-Process 
 # Lista alla aktiva processer Get-ChildItem
 # Visa filer i aktuell katalog Get-Help Get-Process
 # Visa hjälp för ett kommando ``` 
