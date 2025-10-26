@@ -7,7 +7,8 @@ PowerShell är ett kraftfullt skriptverktyg och kommandoradsmiljö, främst för
 ### Windows PowerShell är förinstallerat på de flesta Windows-versioner. 
 Du kan kontrollera versionen genom att köra: ```powershell $PSVersionTable.PSVersion ``` För den senaste versionen, [ladda ner PowerShell från Microsofts officiella hemsida](https://docs.microsoft.com/powershell/).
 
-### Linux/macOS Installera PowerShell via terminalen: ```bash # Linux (Ubuntu-exempel) sudo apt-get install -y powershell # macOS med Homebrew brew install --cask powershell ``` 
+### Linux/macOS Installera PowerShell via terminalen: 
+```bash # Linux (Ubuntu-exempel) sudo apt-get install -y powershell # macOS med Homebrew brew install --cask powershell ``` 
 
 ## 3. Starta PowerShell - **Windows:** Sök efter "PowerShell" i Startmenyn och öppna. 
 
