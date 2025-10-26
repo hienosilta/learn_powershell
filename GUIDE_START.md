@@ -38,9 +38,9 @@ powershell Set-ExecutionPolicy RemoteSigned ```
 ## 6. Vidare läsning
 - [Microsoft PowerShell Documentation](https://learn.microsoft.com/powershell/)
 - [PowerShell Gallery](https://www.powershellgallery.com/)
-- [PowerShell på GitHub](https://github.com/powershell/powershell) ---
+- [PowerShell på GitHub](https://github.com/powershell/powershell)
 
- Vill du ha mer avancerade guider,
+ --- Vill du ha mer avancerade guider,
 exempel på skript,
  eller tips på vanliga användningsområden?
 Säg gärna till!
