@@ -3,7 +3,7 @@
 Detta repository är till för att samla resurser, övningar och exempel för att lära grunderna i PowerShell.
 
 Här hittar du:
-- **Guider** för att komma igång med PowerShell
+- **Guider** för att komma igång med PowerShell ([Kom igång med PowerShell – Grundläggande Guider](GUIDE_START.md))
 - **Exempelscript** och tips på vanliga kommandon
 - **Länkar** till användbara artiklar och dokumentation
 - **Övningsuppgifter** för att utvecklas steg för steg
