@@ -21,7 +21,7 @@ Du kan kontrollera versionen genom att köra: ```powershell $PSVersionTable.PSVe
 -kommandon 
 Prova dessa enkla kommandon i PowerShell-terminalen: ```
 powershell Get-Process 
-# Lista alla aktiva processer Get-ChildItem
+* Lista alla aktiva processer Get-ChildItem
 # Visa filer i aktuell katalog Get-Help Get-Process
 # Visa hjälp för ett kommando ``` 
 
