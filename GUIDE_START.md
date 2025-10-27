@@ -1,7 +1,7 @@
 # Kom igång med PowerShell 
 – Grundläggande Guider
 ## 1. Vad är PowerShell? 
-PowerShell är ett kraftfullt skriptverktyg och kommandoradsmiljö, främst för Windows men finns även för Linux och macOS via PowerShell Core. Med PowerShell kan du automatisera administration, hantera filer, och arbeta med systeminställningar. 
+- PowerShell är ett kraftfullt skriptverktyg och kommandoradsmiljö, främst för Windows men finns även för Linux och macOS via PowerShell Core. Med PowerShell kan du automatisera administration, hantera filer, och arbeta med systeminställningar. 
 
 ## 2. Installation 
 ### Windows PowerShell är förinstallerat på de flesta Windows-versioner. 
